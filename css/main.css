@@ -117,7 +117,7 @@ body {
   justify-content: space-evenly;
   align-items: start;
   flex-direction: column;
-
+/*----- REVISED content wrapper to reflect content on left side of screen */
 }
 
 #content {
@@ -137,6 +137,8 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+/*SECOND CONTENT BUBBLE*/
 
 #content-two {
     background: #222;
